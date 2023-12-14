@@ -1,5 +1,6 @@
 1.data文件夹中为数据预处理方法，具体数据由于隐私未公布，可用n*2维的时间序列数据作为输入作为本模型的驱动数据。
 2.model文件夹中为模型的具体实现，其中multi_model.py为本方法模型
-3.train_pvt 训练 可视化训练过程
+3.train_pvt 训练 可视化训练过程，并将训练过程中准确率等可视化指标存至runs/training_loss_visualization
 4.根据源数据训练出的模型保存至sava_model中
+
 
