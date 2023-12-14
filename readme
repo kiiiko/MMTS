@@ -1,3 +1,3 @@
-1.pvt_reduce.py 模型
-2.train_pvt 训练 可视化训练过程
-3.use_mulit.py 使用
+1.data文件夹中为数据预处理方法，具体数据由于隐私未公布，可用n*2维的时间序列数据作为输入作为本模型的驱动数据。
+2.model文件夹中为模型的具体实现，其中multi_model.py为本方法模型
+3.train_pvt 训练 可视化训练过程
